@@ -14,7 +14,8 @@ def main(x):
 	list1 = []
 	for i in range(x):
 		list1.append("else if (key = " +chr(34) + str(i) + chr(34)+ ")")
-	misc_python.write("if key.txt", list1)
+		list1.append("msgbox "+str(i))
+	misc_python.write("if key2.txt", list1)
 
 if __name__ == '__main__':
     main(32)
