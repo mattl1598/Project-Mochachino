@@ -18,6 +18,8 @@ def main():
 	misc_python.write("ascii.txt", list1)
 
 if __name__ == '__main__':
+
+
     main()
 	#i=127-32
 	#print("|" + chr(i+32) + "|" + str(i+32) + "|"+ the_lord.binary_repr(i+32,8) + "|")
