@@ -8,3 +8,7 @@
 |Warwich |Friday 22 June, Saturday 23 June, Saturday 6 October and Saturday 20 October |https://warwick.ac.uk/study/undergraduate/visits/opendays/||
 |Southampton |Saturday 8 September 2018 / Sunday 9 September 2018 / Saturday 13 October 2018 |https://www.southampton.ac.uk/about/visit/open-days.page/||
 |Cardiff |Friday 6 July 2018/Saturday 15 September 2018/Saturday 27 October 2018 |https://www.cardiff.ac.uk/study/undergraduate/open-days-visits||
+|Bath |Friday 22 June/Saturday 23 June/Saturday 15 September |http://www.bath.ac.uk/campaigns/come-to-an-undergraduate-open-day/||
+|Birmingham |Friday 22 and Saturday 23 June, Saturday 15 September and Saturday 20 October |https://www.birmingham.ac.uk/undergraduate/visit/opendays/index.aspx||
+|Reading |Friday 15 June/Saturday 16 June|http://www.reading.ac.uk/ready-to-study/visiting-and-open-days/opendays.aspx||
+|Birmingham |Friday 22 and Saturday 23 June, Saturday 15 September and Saturday 20 October|https://www.birmingham.ac.uk/undergraduate/visit/opendays/index.aspx||
